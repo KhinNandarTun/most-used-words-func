@@ -6,4 +6,4 @@
  
  <h3>Run the image</h3>
   - docker run -it  most-used-words:test2 <br/>
-  - Run the go with go run . or retrieve the binary file with go build . and run the binary file
+  - Run the project with go run . or retrieve the binary file with go build . and run the binary file
